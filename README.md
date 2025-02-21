@@ -11,4 +11,5 @@ This is the individual summative assignment for Introduction to Linux and IT too
 1. Copy the following command : `git clone https://github.com/b-sandrine/submission-reminder-app-b-sandrine`
 2. `cd submission-reminder-app-b-sandrine`
 3. Run: `./create_environment.sh`. Here you will be prompted to enter first name($firstName).
-4. Run: `./submission_reminder_$firstName/startup.sh`
+4. `cd submission_reminder_$firstName`
+5. Run: `./startup.sh` or `bash startup.sh`. These commands will startup reminder.sh
