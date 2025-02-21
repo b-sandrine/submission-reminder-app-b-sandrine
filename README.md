@@ -1,6 +1,6 @@
 ## Repository name
 
-submission-reminder-app-b-sandrine
+submission_reminder_app_b-sandrine
 
 ## Description
 
